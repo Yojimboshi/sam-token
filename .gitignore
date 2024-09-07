@@ -1,4 +1,4 @@
 /mntDdHVEErtQQjkwZ4jNfyvrZK9R67Zq1ow3ewx8T6n.json
 /samiRCpbnMDFjpQz4WxtUZ6Yt4Z2ssbvtfCRNYnNsxF.json
-node_modules
-*.json
+node_modules/
+package-lock.json
